@@ -1,0 +1,22 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "A simple Javascript HTML 5 Sudoku Implementation",
+  "main": "dist/sudoku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunorrr/sudoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunorrr/sudoku/issues"
+  },
+  "homepage": "https://github.com/brunorrr/sudoku#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
